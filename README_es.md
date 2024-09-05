@@ -14,74 +14,47 @@ Con más de 20 años de experiencia como Desarrollador de Software, he liderado 
 ## ⌨️ EXPERIENCIA PROFESIONAL
 
 ### Bilbomatica (Salud Gobierno de Navarra)
-<p>
-  <strong style="float: left;">Responsable técnico</strong>
-  <span style="float: right;"><em>Pamplona, España</em></span>
-</p>
-<br>
-<p style="text-align: right;"><em>Abril 2010–Mayo 2024</em></p>
+**Responsable técnico**  
+*Pamplona, España | Abril 2010–Mayo 2024*
 
-- Mantenimiento, desarrollo, análisis y evolución de la aplicación web Irati ("Cuidados de enfermería").
-- Migración de Visual Basic a C# bajo arquitectura MVC, mejorando la escalabilidad y el rendimiento..
-- Mantenimiento y migración de la base de datos en SQL Server, optimizando la eficiencia..
-- Gestión y automatización de despliegues mediante integración continua, con entregas rápidas y de calidad.
-- Mantenimiento y evolución de la API para garantizar la comunicación eficiente con otros productos y servicios del - sistema.
+- **Responsabilidades:**
+    - Mantenimiento, desarrollo, análisis y evolución de la aplicación web Irati ("Cuidados de enfermería").
+    - Migración de Visual Basic a C# bajo arquitectura MVC, mejorando la escalabilidad y el rendimiento..
+    - Mantenimiento y migración de la base de datos en SQL Server, optimizando la eficiencia..
+    - Gestión y automatización de despliegues mediante integración continua, con entregas rápidas y de calidad.
+    - Mantenimiento y evolución de la API para garantizar la comunicación eficiente con otros productos y servicios del - sistema.
 
 ### Wairbut - Infodesa - Duna (Caja de ahorros de Navarra)
-<p>
-  <strong style="float: left;">Analista programador</strong>
-  <span style="float: right;"><em>Pamplona, España</em></span>
-</p>
-<br>
-<p style="text-align: right;"><em>Marzo 2005–Abril 2010</em></p>
+**Analista programador**  
+*Pamplona, España | Marzo 2005–Abril 2010*
 
-- Gestión y administración del entorno Datawarehouse basado en Oracle.
-- Planificación y ejecución de scripts Unix con instrucciones SQL para la carga de tablas en Oracle.
-- Optimización del rendimiento de procesos y mejora continua de la eficiencia operativa.
-- Creación y desarrollo de nuevos proyectos orientados al análisis y mejora del entorno informacional.
-- Resolución de incidencias técnicas en el sistema, garantizando la estabilidad y continuidad del servicio.
-- Mantenimiento de procesos batch en Cobol sobre host para la carga y descarga de datos.
-- Creación  de informes personalizados para diferentes departamentos, cumpliendo  las necesidades específicas de cada área.
+- **Responsabilidades:**
+    - Gestión y administración del entorno Datawarehouse basado en Oracle.
+    - Planificación y ejecución de scripts Unix con instrucciones SQL para la carga de tablas en Oracle.
+    - Optimización del rendimiento de procesos y mejora continua de la eficiencia operativa.
+    - Creación y desarrollo de nuevos proyectos orientados al análisis y mejora del entorno informacional.
+    - Resolución de incidencias técnicas en el sistema, garantizando la estabilidad y continuidad del servicio.
+    - Mantenimiento de procesos batch en Cobol sobre host para la carga y descarga de datos.
+    - Creación  de informes personalizados para diferentes departamentos, cumpliendo  las necesidades específicas de cada área.
 
 ---
 
 ## 📚 EDUCACIÓN
 
-### APPLE CODING ACADEMY  
-<p>
-  <strong style="float: left;">Vision Developer Program</strong>
-  <span style="float: right;"><em>España</em></span>
-</p>
-<br>
-<p>
-    <span style="float: left;">Swift, VisionOS, ARKit, Reality View, 3D Models and Immersive Spaces.</span>
-    <span style="float: right;"><em>Julio 2024</em></span>
-</p>
-<br>
+### APPLE CODING ACADEMY
+**Vision Developer Program**  
+*España | Julio 2024*
+> Swift, VisionOS, ARKit, Reality View, 3D Models and Immersive Spaces.
 
 ### APPLE CODING ACADEMY
-<p>
-  <strong style="float: left;">Swift Full Stack Bootcamp</strong>
-  <span style="float: right;"><em>España</em></span>
-</p>
-<br>
-<p>
-    <span style="float: left;">Swift and key frameworks like SwiftUI, XCTest, Async-Await, Vapor, CoreML, and SwiftData.</span>
-    <span style="float: right;"><em>Febrero 2024–Junio 2024</em></span>
-</p>
-<br>
+**Swift Full Stack Bootcamp**  
+*España | Febrero 2024–Junio 2024*
+> Swift and key frameworks like SwiftUI, XCTest, Async-Await, Vapor, CoreML, and SwiftData.
 
 ### ARTEAN. CUATROVIENTOS SCOOP
-<p>
-  <strong style="float: left;">Ciclo superior Desarrollo aplicaciones informáticas</strong>
-  <span style="float: right;"><em>Pamplona, España</em></span>
-</p>
-<br>
-<p>
-    <span style="float: left;">Diseñar, analizar, probar aplicaciones, desarrollar software e implementar sistemas.</span>
-    <span style="float: right;"><em>Septiembre 1999–Junio 2001</em></span>
-</p>
-<br>
+**Ciclo superior Desarrollo aplicaciones informáticas**  
+*Pamplona, España | Septiembre 1999–Junio 2001*
+> Diseñar, analizar, probar aplicaciones, desarrollar software e implementar sistemas.
 
 ---
 
