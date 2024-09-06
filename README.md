@@ -44,12 +44,14 @@ With over 20 years of experience as a Software Developer, I have led the develop
 ### APPLE CODING ACADEMY
 **Vision Developer Program**  
 *Spain | July 2024*
-> Swift, VisionOS, ARKit, Reality View, 3D Models and Immersive Spaces.
+> During the course, I gained advanced knowledge in developing applications for 3D and spatial environments with Apple Vision Pro. I learned to integrate immersive technologies, design interactive experiences, and work exclusively with Apple’s native tools, avoiding reliance on third-party libraries.
+
+> Additionally, the course reinforced the importance of having the architecture work for the developer, maintaining simplicity and efficiency in the workflow, which aligns perfectly with my professional approach.
 
 ### APPLE CODING ACADEMY
 **Swift Full Stack Bootcamp**  
 *Spain | February 2024–June 2024*
-> Swift and key frameworks like SwiftUI, XCTest, Async-Await, Vapor, CoreML, and SwiftData.
+> In the bootcamp, I learned how to develop full-stack applications for the Apple ecosystem, both on the client side and server side using Swift and Vapor. The course covered advanced SwiftUI, design patterns, and the use of SwiftData for data persistence. It also delved into concurrency and asynchrony with Async/Await, optimizing application performance. Best security practices, along with the use of unit and UI testing, ensured robust and scalable development.
 
 ### ARTEAN. CUATROVIENTOS SCOOP
 **Advanced Diploma in Software Application Development**  
