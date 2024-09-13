@@ -4,7 +4,7 @@ If you prefer to read this page in Spanish, you can find the [🇪🇸 Spanish v
 [![LinkedIn](https://img.shields.io/badge/linkekin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jcalderita)
 [![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.com/users/jcalderita)
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://x.com/jcalderita)
-[![Web](https://img.shields.io/badge/website-orange?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://jcalderita.com)
+[![Web](https://img.shields.io/badge/website-B74E03?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://jcalderita.com)
 [![Mail](https://img.shields.io/badge/mail-purple?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=101010)](mailto:contacto@jcalderita.com)
 
 ---
