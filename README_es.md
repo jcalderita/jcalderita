@@ -1,5 +1,5 @@
 Si prefieres leer esta página en inglés, puedes encontrar la [🇺🇸 Versión en inglés aquí](README.md).
-# Jorge Calderita - Dessarrollador de Software
+# Jorge Calderita - Desarrollador de Software
 
 [![LinkedIn](https://img.shields.io/badge/linkekin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jcalderita)
 [![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.com/users/jcalderita)
@@ -19,10 +19,10 @@ Con más de 20 años de experiencia como Desarrollador de Software, he liderado 
 
 - **Responsabilidades:**
     - Mantenimiento, desarrollo, análisis y evolución de la aplicación web Irati ("Cuidados de enfermería").
-    - Migración de Visual Basic a C# bajo arquitectura MVC, mejorando la escalabilidad y el rendimiento..
-    - Mantenimiento y migración de la base de datos en SQL Server, optimizando la eficiencia..
+    - Migración de Visual Basic a C# bajo arquitectura MVC, mejorando la escalabilidad y el rendimiento.
+    - Mantenimiento y migración de la base de datos en SQL Server, optimizando la eficiencia.
     - Gestión y automatización de despliegues mediante integración continua, con entregas rápidas y de calidad.
-    - Mantenimiento y evolución de la API para garantizar la comunicación eficiente con otros productos y servicios del - sistema.
+    - Mantenimiento y evolución de la API para garantizar la comunicación eficiente con otros sistemas y servicios.
 
 ### Wairbut - Infodesa - Duna (Caja de ahorros de Navarra)
 **Analista programador**  
