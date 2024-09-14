@@ -1,5 +1,5 @@
 Si prefieres leer esta página en inglés, puedes encontrar la [🇺🇸 Versión en inglés aquí](README.md).
-# Jorge Calderita Echeverria - Dessarrollador de Software
+# Jorge Calderita - Dessarrollador de Software
 
 [![LinkedIn](https://img.shields.io/badge/linkekin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jcalderita)
 [![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.com/users/jcalderita)
