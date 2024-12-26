@@ -42,6 +42,11 @@ With over 20 years of experience as a Software Developer, I have led the develop
 ## 📚 EDUCATION
 
 ### APPLE CODING ACADEMY
+**Swift Refresh Workshop**  
+*Spain | December 2024*
+> During this course, I updated my skills with the latest advancements introduced by Apple, gaining hands-on experience with cutting-edge technologies such as Swift 6, Swift Data, and Swift Testing. I delved into the use of macros to optimize development and mastered Swift’s strict concurrency model to ensure safe and efficient execution of asynchronous operations. This learning enhances my ability to design modern, scalable solutions aligned with best practices within the Apple ecosystem.
+
+### APPLE CODING ACADEMY
 **Vision Developer Program**  
 *Spain | July 2024*
 > During the course, I gained advanced knowledge in developing applications for 3D and spatial environments with Apple Vision Pro. I learned to integrate immersive technologies, design interactive experiences, and work exclusively with Apple’s native tools, avoiding reliance on third-party libraries.
