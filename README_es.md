@@ -1,7 +1,7 @@
-Si prefieres leer esta página en inglés, puedes encontrar la [🇺🇸 Versión en inglés aquí](README.md).
+If you prefer to read this page in English, you can find the [🇺🇸 English version here](README.md).
 # Jorge Calderita - Desarrollador de Software
 
-[![LinkedIn](https://img.shields.io/badge/linkekin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jcalderita)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jcalderita)
 [![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.com/users/jcalderita)
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://x.com/jcalderita)
 [![Web](https://img.shields.io/badge/website-B74E03?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://jcalderita.com)
@@ -9,7 +9,7 @@ Si prefieres leer esta página en inglés, puedes encontrar la [🇺🇸 Versió
 
 ---
 
-Con más de 20 años de experiencia como Desarrollador de Software, he liderado el desarrollo de la aplicación web IRATI en SALUD GN. Además, he formado parte del equipo encargado de la migración de IRATI hacia una tecnología más avanzada, lo que ha permitido mejorar su rendimiento y escalabilidad. Actualmente, estoy enfocando mi carrera hacia el desarrollo de aplicaciones para iOS y VisionOS, utilizando Swift tanto en el lado del cliente como del servidor, buscando nuevos desafíos en estas áreas emergentes.
+Con más de 20 años de experiencia en desarrollo de software, he liderado el desarrollo y posterior migración de la aplicación web IRATI en SALUD GN, mejorando su rendimiento y escalabilidad. Actualmente me especializo en desarrollo iOS y VisionOS con Swift, tanto en cliente como en servidor, integrando también buenas prácticas de accesibilidad. Busco nuevos retos en estas áreas emergentes.
 
 ## ⌨️ EXPERIENCIA PROFESIONAL
 
@@ -42,26 +42,41 @@ Con más de 20 años de experiencia como Desarrollador de Software, he liderado 
 ## 📚 EDUCACIÓN
 
 ### APPLE CODING ACADEMY
+**Swift Accesibility Program**  
+*España | Julio 2025*
+- Formación intensiva y práctica sobre accesibilidad en apps iOS.
+- Cumplimiento de la Directiva Europea de Accesibilidad (EAA) y las Accessibility Nutrition Labels de Apple.
+- Implementación de accesibilidad utilizando Swift, SwiftUI y las APIs nativas de Apple.
+- Auditoría y buenas prácticas para crear apps inclusivas y alineadas con los estándares vigentes y futuros.
+
+### APPLE CODING ACADEMY
 **Swift Refresh Workshop**  
 *España | Diciembre 2024*
-> Durante este curso, me actualicé a las últimas novedades presentadas por Apple, adquiriendo experiencia práctica con tecnologías avanzadas como Swift 6, Swift Data, y Swift Testing. Profundicé en el uso de macros para optimizar el desarrollo, y en el modelo de concurrencia estricta de Swift, garantizando la ejecución segura y eficiente de operaciones asíncronas. Este aprendizaje refuerza mi capacidad para diseñar soluciones modernas, escalables y alineadas con las mejores prácticas del ecosistema Apple.
+- Actualización práctica con las últimas novedades de Apple: Swift 6, Swift Data y Swift Testing.
+- Uso de macros para optimizar el desarrollo y reducir boilerplate.
+- Concurrencia estricta con Swift para operaciones asíncronas seguras y eficientes.
+- Diseño de soluciones modernas y escalables, alineadas con las mejores prácticas de Apple.
 
 ### APPLE CODING ACADEMY
 **Vision Developer Program**  
 *España | Julio 2024*
-> Durante el curso adquirí conocimientos avanzados en el desarrollo de aplicaciones para entornos 3D y espaciales con el Apple Vision Pro. Aprendí a integrar tecnologías inmersivas, diseñar experiencias interactivas y a trabajar exclusivamente con herramientas nativas de Apple, evitando la dependencia de librerías de terceros.
-
-> Además, el curso refuerza la importancia de que la arquitectura trabaje para el desarrollador, manteniendo la simplicidad y eficiencia en el flujo de trabajo, lo cual encaja perfectamente con mi enfoque profesional.
+- Conocimientos avanzados en desarrollo para entornos 3D y espaciales con Apple Vision Pro.
+- Integración de tecnologías inmersivas y diseño de experiencias interactivas.
+- Uso exclusivo de herramientas nativas de Apple, sin dependencias de terceros.
+- Arquitectura enfocada en la simplicidad y eficiencia del flujo de trabajo.
 
 ### APPLE CODING ACADEMY
 **Swift Full Stack Bootcamp**  
 *España | Febrero 2024–Junio 2024*
-> En el bootcamp aprendí a desarrollar aplicaciones completas para el ecosistema Apple, tanto en el lado cliente como en el servidor usando Swift y Vapor. El curso abarcó SwiftUI avanzado, patrones de diseño, y el uso de SwiftData para la persistencia de datos. También se profundizó en la concurrencia y asincronía mediante Async/Await, optimizando el rendimiento de las aplicaciones. Las buenas prácticas de seguridad, junto con el uso de pruebas unitarias y de interfaz, aseguraron un desarrollo robusto y escalable.
+- Desarrollo de aplicaciones completas para el ecosistema Apple con Swift y Vapor.
+- SwiftUI avanzado, patrones de diseño y persistencia con SwiftData.
+- Concurrencia y asincronía con Async/Await para mejorar el rendimiento.
+- Buenas prácticas de seguridad y testing para un desarrollo robusto y escalable.
 
 ### ARTEAN. CUATROVIENTOS SCOOP
 **Ciclo superior Desarrollo aplicaciones informáticas**  
 *Pamplona, España | Septiembre 1999–Junio 2001*
-> Diseñar, analizar, probar aplicaciones, desarrollar software e implementar sistemas.
+- Diseñar, analizar, probar aplicaciones, desarrollar software e implementar sistemas.
 
 ---
 
